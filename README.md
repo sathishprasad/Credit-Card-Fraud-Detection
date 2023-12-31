@@ -1,0 +1,2 @@
+# Credit Card Fraud Detection
+ Credit Card Fraud Detection using an MLP in PyTorch applies deep learning for identifying fraudulent transactions. The model, built with multiple layers and dropout for regularization, is trained on historical transaction data. It learns patterns differentiating legitimate and fraudulent activities, achieving high accuracy. This approach enhances security, aids in real-time fraud prevention, and adapts to evolving fraud tactics, making it a crucial tool in financial security
